@@ -1,0 +1,64 @@
+/* Color scheme Autumn Leaves
+----------------------------------------------- */
+#wrapper-header .header-bar,
+body #wrapper-footer,
+.post-entry .post-read-more,
+body input[type="submit"],
+body input[type="reset"],
+body .centered-button,
+body .custom-button,
+table th {
+  background-color: #be570c;           
+}
+.portfolio-boxes-wrapper .portfolio-box img {
+  border-color: #be570c;           
+}
+#wrapper-footer .footer-signature .footer-signature-content {
+  background-color: #8a3d04;                                                            
+}
+body #wrapper-footer,
+#wrapper-footer #footer .footer-widget .footer-headline {
+  border-color: #8a3d04;                     
+}
+body .post-entry .post-entry-headline a:hover {
+  color: #8a3d04;                                              
+}
+.post-entry .post-read-more:hover,
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .centered-button:hover,
+body .custom-button:hover {
+  background-color: #7c3704;                                
+}     
+.portfolio-boxes-wrapper .portfolio-box :hover > img,
+body .menu-box ul ul {
+  border-color: #7c3704;                            
+}
+body .section-headline,
+body #content .section-headline,
+body .sidebar-widget .sidebar-headline,
+body .read-more-button {
+  color: #7c3704;                                
+}
+body .post-entry,
+.container .post-info span {
+  border-color: #df8542;                 
+} 
+body input[type="text"],
+body input[type="file"],
+body input[type="password"],
+body input[type="number"],
+body input[type="search"],
+body input[type="email"],
+body input[type="url"],
+body textarea,
+body select,
+body #searchform .searchform-wrapper {
+  border-color: #df9d6c;
+}
+body a {
+  color: #be570c;       
+}
+#sidebar .sidebar-widget a {
+  color: #c95c0d;                           
+}

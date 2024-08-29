@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"section",
+				"section-title"
+			],
+			[
+				"over",
+				"overflow-x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 319.0,
+		"last_filter": "status",
+		"selected_items":
+		[
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"proje",
+				"Project: Edit"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joshua/Work/James Lockyer Associates/jameslockyer.co.uk/dist/public/wp-content/themes/foreverwood-premium"
+	],
+	"file_history":
+	[
+		"/Users/joshua/Work/James Lockyer Associates/jameslockyer.co.uk/dist/public/wp-content/themes/foreverwood-premium/functions.php",
+		"/Users/joshua/Work/James Lockyer Associates/jameslockyer.co.uk/dist/public/wp-content/themes/foreverwood-premium/style.css",
+		"/Users/joshua/Work/James Lockyer Associates/jameslockyer.co.uk/dist/public/wp-content/themes/foreverwood-premium/footer.php",
+		"/Users/joshua/Work/James Lockyer Associates/jameslockyer.co.uk/jameslockyer.sublime-project",
+		"/Users/joshua/Work/James Lockyer Associates/jameslockyer.co.uk/dist/public/wp-config.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/page-performance.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/page-people.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/common/_global.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/layouts/_content.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/templates/content-page.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/page.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/base.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/templates/header.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/templates/content.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/scripts/main.js",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/common/_fonts.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/common/_mixins.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/common/_variables.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/layouts/_header.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/dist/styles/main.css",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/layouts/_footer.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/fertittacapital.sublime-project",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital-original/page-people.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital-original/assets/styles/layouts/_content.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital-original/assets/styles/main.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/main.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/components/_grid.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/layouts/_pages.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/page-partner-with-us.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/page-home.php",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/assets/styles/layouts/_sidebar.scss",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/.gitignore",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/.gitignore",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/.travis.yml",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/.jshintrc",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/.jscsrc",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/.editorconfig",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/.bowerrc",
+		"/Users/joshua/Work/Fertitta Capital/fertittacapital.com/dist/public/wp-content/themes/fertittacapital/package.json",
+		"/Users/joshua/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/joshua/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"128",
+			"@include font-size(11);",
+			"source",
+			"quincy",
+			"themes",
+			".justify",
+			"22px",
+			"18",
+			"20px",
+			"\"\"",
+			"440px",
+			"||",
+			");",
+			"person_position",
+			"$quote",
+			"quotes",
+			"quote_options",
+			"quote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 110.0
+	},
+	"output.git-init":
+	{
+		"height": 110.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jameslockyer.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

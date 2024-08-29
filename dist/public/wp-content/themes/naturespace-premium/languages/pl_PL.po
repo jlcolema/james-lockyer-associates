@@ -1,0 +1,1185 @@
+# Translation of the WordPress theme NatureSpace 1.1 by Tomas Toman.
+# This file is distributed under the same license as the NatureSpace package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2015.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NatureSpace 1.1\n"
+"POT-Creation-Date: 2014-09-20 20:16+0100\n"
+"PO-Revision-Date: 2015-07-20 09:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: Pawel Grochowski\n"
+"Language: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# @ naturespace
+#: 404.php:13 search.php:49
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+# @ naturespace
+#: 404.php:17
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania."
+
+# @ naturespace
+#: archive.php:15
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ naturespace
+#: archive.php:17
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ naturespace
+#: archive.php:19
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ naturespace
+#: archive.php:21
+msgid "Archive"
+msgstr "Archiwum"
+
+# @ naturespace
+#: author.php:14
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:157 functions.php:527
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:158 functions.php:531
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Coś poszło źle."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganej wtyczki"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Powrót do Kokpitu"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Wtyczka aktywowana."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Wtyczka została aktywowana:"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i są  aktywowane. %1$s"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Odrzuć tę informację"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Link zewnętrzny"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Prywatne repozytorium"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Wymagane"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Zalecane"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Niezainstalowany"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Zainstalowane, ale nieaktywne"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Brak wtyczki do instalacji lub aktywacji. <a href=\"%1$s\" title=\"Return do "
+"Dashboard\">Powrót do Dashboard</a>"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Wtyczka"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Źródło"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Typ"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instaluj"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktywuj"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Pakiet instalacyjny nie jest dostępny."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Pobieranie instalowanego pakietu z <span class=\"code\">%s</span>&#8230;"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowywanie paczki&#8230;"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalowanie wtyczki&#8230;"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Nie zainstalowano wtyczki"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Wtyczki zainstalowane pomyślnie."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacji i aktywacji rozpoczęty. Ten proces może trochę potrwać, "
+"więc proszę o cierpliwość."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowana i aktywowana pomyślnie."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie wtyczki %1$s (%2$d/%3$d)"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Instalacja rozpoczęta. Ten proces może trochę potrwać, więc proszę o "
+"cierpliwość."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja wtyczki %1$s (%2$d/%3$d)"
+
+# @ naturespace
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Powrót do Dashboard"
+
+# @ naturespace
+#: comments.php:21
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentarz"
+msgstr[1] "%1$s Komentarzy"
+
+# @ naturespace
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+# @ naturespace
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+# @ naturespace
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Komentarze są zamknięte."
+
+# @ naturespace
+#: comments.php:42
+msgid "Your name"
+msgstr "Twoje imię"
+
+# @ naturespace
+#: comments.php:43
+msgid "Website"
+msgstr "strona"
+
+# @ naturespace
+#: comments.php:44
+msgid "Comment..."
+msgstr "Komentarz ..."
+
+# @ naturespace
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Dodaj komentarz"
+
+#: functions.php:158
+msgid "Video Thumbnail"
+msgstr "Podgląd wideo"
+
+# @ naturespace
+#: functions.php:170
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Wprowadź pełny adres URL podgląd wideo."
+
+# @ naturespace
+#: functions.php:225
+msgid "Main Header Menu"
+msgstr "Nagłowek - Menu główne"
+
+#: functions.php:226
+msgid "Social Networks Links"
+msgstr "Linki Sieci społeczne"
+
+#: functions.php:227
+msgid "Carousel Menu"
+msgstr "Menu karuzeli"
+
+# @ naturespace
+#: functions.php:239
+msgid "Right Sidebar"
+msgstr "Prawy pasek boczny"
+
+# @ naturespace
+#: functions.php:241
+msgid "Right sidebar which appears on all posts and pages."
+msgstr ""
+"Prawy pasek boczny, który pojawia się we wszystkich postach i na stronach."
+
+# @ naturespace
+#: functions.php:248
+msgid "Footer left widget area"
+msgstr "Stopka, lewa strona widget"
+
+# @ naturespace
+#: functions.php:250
+msgid "Left column with widgets in footer."
+msgstr "Stopka, lewa kolumna z widgetami."
+
+# @ naturespace
+#: functions.php:257
+msgid "Footer middle widget area"
+msgstr "Stopka, środek widget"
+
+# @ naturespace
+#: functions.php:259
+msgid "Middle column with widgets in footer."
+msgstr "Stopka, środkowa kolumna z widgetami."
+
+# @ naturespace
+#: functions.php:266
+msgid "Footer right widget area"
+msgstr "Stopka, prawa strona widget"
+
+# @ naturespace
+#: functions.php:268
+msgid "Right column with widgets in footer."
+msgstr "Stopka, prawa kolumna z widgetami."
+
+# @ naturespace
+#: functions.php:275
+msgid "Footer notices"
+msgstr "Stopka, pole notatek"
+
+# @ naturespace
+#: functions.php:277
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Linia do praw autorskich i innych informacji, poniżej obszarów widgetów "
+"stopki. Wstaw tutaj jeden widget tekstu. Pole \"Tytuł\" w tym widgecie "
+"powinno zostać puste."
+
+#: functions.php:284
+msgid "Homepage slideshow"
+msgstr "Pokaz slajdów strona główna"
+
+#: functions.php:286
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Obszar dla Cyclone Slider Widget, który wyświetla pokaz slajdów na stronie "
+"głównej."
+
+# @ naturespace
+#: functions.php:305
+msgid "Read more"
+msgstr "Więcej"
+
+# @ naturespace
+#: functions.php:351
+msgid "Post navigation"
+msgstr "Temat nawigacji"
+
+# @ naturespace
+#: functions.php:359 search.php:35
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Poprzedni"
+
+# @ naturespace
+#: functions.php:360 search.php:36
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Następny &rarr;"
+
+# @ naturespace
+#: functions.php:381
+msgid "&larr; Previous post"
+msgstr "&larr; Poprzedni post"
+
+# @ naturespace
+#: functions.php:383
+msgid "Next post &rarr;"
+msgstr "Następny post &rarr;"
+
+# @ naturespace
+#: functions.php:401
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ naturespace
+#: functions.php:401 page.php:20 single.php:44
+#: template-full-width-without-sharing.php:21 template-full-width.php:21
+#: template-landing-page.php:21 template-sitemap.php:21
+#: template-without-sharing.php:21 template-without-title.php:18
+msgid "(Edit)"
+msgstr "(Eytuj)"
+
+# @ naturespace
+#: functions.php:414
+msgid "(Post author)"
+msgstr "(Post autora)"
+
+# @ naturespace
+#: functions.php:420
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+# @ naturespace
+#: functions.php:426
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na akceptację."
+
+# @ naturespace
+#: functions.php:432
+msgid "Reply"
+msgstr "Odpowiedź"
+
+# @ naturespace
+#: functions.php:434
+msgid "Edit"
+msgstr "Edycja"
+
+# @ naturespace
+#: functions.php:526
+msgid "Install Recommended Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+# @ naturespace
+#: functions.php:528
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s wtyczka jest wymagana do tego tematu. Kliknij na poniższy duży "
+"niebieski przycisk aby ją zainstalować i aktywować %1$s."
+
+# @ naturespace
+#: functions.php:529
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s jest zainstalowana, ale nieaktywna. Przejdź do zakładki <a href=\"%2$s"
+"\">Wtyczki</a>, aby ją aktywować."
+
+# @ naturespace
+#: functions.php:530
+#, php-format
+msgid "Install %s Now"
+msgstr "Zainstaluj teraz %s"
+
+# @ naturespace
+#: functions.php:532
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+# @ naturespace
+#: functions.php:533
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Temat ten wymaga %1$s wtyczki. <a href=\"%2$s\"><strong> Kliknij tutaj, aby "
+"rozpocząć proces instalacji </ strong></a>. Możesz zostać poproszony o "
+"poświadczenie FTP w oparciu o konfiguracji serwera."
+
+# @ naturespace
+#: functions.php:534
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby zainstalować wtyczkę "
+"%s. Skontaktuj się z administratorem strony aby to zrobić."
+
+# @ naturespace
+#: functions.php:535
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Temat ten wymaga wtyczki %1$s. Wtyczka jest aktualnie nieaktywna, proszę iść "
+"do <a href=\"%2$s\">strony administracji wtyczki</a>, aby go uaktywnić."
+
+# @ naturespace
+#: functions.php:536
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby aktywować %s wtyczkę. "
+"Aby ją aktywować skontaktuj się z administratorem strony."
+
+# @ naturespace
+#: functions.php:537
+msgid "Return to Recommended Plugins Installer"
+msgstr "Powrót do instalatora wymaganej wtyczki"
+
+# @ naturespace
+#: functions.php:548
+msgid "NatureSpace"
+msgstr "NatureSpace"
+
+#: functions.php:549
+msgid "NatureSpace - full screen"
+msgstr "NatureSpace - pełny ekran"
+
+# @ naturespace
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+# @ naturespace
+#: search.php:17
+msgid "<strong>Number of Results</strong>: "
+msgstr "<strong>Liczba wyników:</strong>: "
+
+# @ naturespace
+#: search.php:27
+msgid "Search results navigation"
+msgstr "Wyniki wyszukiwania nawigacji"
+
+# @ naturespace
+#: search.php:53
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania. Spróbuj ponownie używając innych słów kluczowych."
+
+# @ naturespace
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Szukaj..."
+
+# @ naturespace
+#: single.php:45
+msgid "Pages:"
+msgstr "Strony:"
+
+# @ naturespace
+#: tag.php:13
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiwum: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Powiększ zdjęcie"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70 cycloneslider/thumbnails/slider.php:70
+msgid "Slide type not supported."
+msgstr "Typ slajdów nie działa."
+
+# @ naturespace
+#: functions/be/fw-options.php:1420
+msgid "settings reset."
+msgstr "przywróć ustawienia."
+
+# @ naturespace
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+# @ naturespace
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Nie znaleziono podanego adresu lokalizacji."
+
+# @ naturespace
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Nieprawidłowe żądanie. Czy podałeś adres?"
+
+# @ naturespace
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Coś poszło nie tak podczas pobierania mapy, należy upewnić się, że "
+"prawidłowo wpisano krótki kod."
+
+# @ naturespace
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Nie można połączyć się z serwisem Google API."
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Facebook Like Box."
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:14
+msgid "NatureSpace Facebook Like Box Widget"
+msgstr "NatureSpace Facebook Like Box Widget"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-image-box.php:116
+#: functions/fe/widget-info-box.php:58 functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-presentation-box.php:58
+#: functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Tytuł:"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Adres URL strony na Facebook:"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Wstaw tutaj pełny adres URL swojej strony na Facebook, (przykład: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Wysokość boksu Like (opcjonalnie)"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Wstaw tutaj wysokość boksu Like. Wartość w pikselach, w polu należy wpisać "
+"TYLKO CYFRY (bez symbolu \"px\")!"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Pokaż profile:"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr "Określ, czy wyświetlać zdjęcia ludzi, którzy lubią stronę."
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Pokaż strumień wiadomości:"
+
+# @ naturespace
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Określ, czy wyświetlać strumień najnowszych wiadomości przez stronę."
+
+#: functions/fe/widget-image-box.php:12
+msgid ""
+"Displays a full screen box with your custom background image, text and link."
+msgstr "Wyświetl pole z obrazem, tekstem a link."
+
+# @ naturespace
+#: functions/fe/widget-image-box.php:14
+msgid "NatureSpace Box-Image"
+msgstr "NatureSpace Box-Image"
+
+#: functions/fe/widget-image-box.php:76
+#: functions/fe/widget-presentation-box.php:48
+msgid "Image:"
+msgstr "Zdjęcie:"
+
+# @ naturespace
+#: functions/fe/widget-image-box.php:80
+#: functions/fe/widget-presentation-box.php:52
+msgid "Insert here the full URL address of your image."
+msgstr "Wprowadź pełny adres URL swojego zdjęcie."
+
+#: functions/fe/widget-image-box.php:86
+msgid "Height:"
+msgstr "Wysokość:"
+
+#: functions/fe/widget-image-box.php:90
+msgid "Set here the height of the image box (in pixels)."
+msgstr "Ustaw tutaj wysokość okna (w pikselach)."
+
+#: functions/fe/widget-image-box.php:96
+msgid "Background image size:"
+msgstr "Rozmiar obrazu tła:"
+
+#: functions/fe/widget-image-box.php:99
+msgid "Auto"
+msgstr "Automatyczny"
+
+#: functions/fe/widget-image-box.php:100
+msgid "Cover"
+msgstr "Pokrywać "
+
+#: functions/fe/widget-image-box.php:106
+msgid "Scrolling:"
+msgstr "Przewijanie:"
+
+#: functions/fe/widget-image-box.php:109
+msgid "Fixed"
+msgstr "Stały"
+
+#: functions/fe/widget-image-box.php:110
+msgid "Scrolled"
+msgstr "Przewijane"
+
+# @ naturespace
+#: functions/fe/widget-image-box.php:123
+#: functions/fe/widget-presentation-box.php:65
+msgid "Subtitle:"
+msgstr "Podtytuł:"
+
+#: functions/fe/widget-image-box.php:130
+msgid "Button link:"
+msgstr "Odsyłacz na przycisku:"
+
+# @ naturespace
+#: functions/fe/widget-image-box.php:134
+msgid "Insert here the full URL address of your custom link."
+msgstr "Wprowadź pełny adres URL swojego powiązanie."
+
+#: functions/fe/widget-image-box.php:140
+msgid "Button text:"
+msgstr "Tekst na przycisku:"
+
+#: functions/fe/widget-image-box.php:144
+msgid "Insert here a text which will be displayed in the button."
+msgstr "Wstaw tutaj tekst przycisku."
+
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and link."
+msgstr "Wyświetl pole z tekstem a link."
+
+# @ naturespace
+#: functions/fe/widget-info-box.php:14
+msgid "NatureSpace Box-Info"
+msgstr "NatureSpace Box-Info"
+
+#: functions/fe/widget-info-box.php:48
+msgid "Icon:"
+msgstr "Ikonę:"
+
+#: functions/fe/widget-info-box.php:52
+msgid ""
+"Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+msgstr "Wstaw tutaj nazwę ikony (przykład: <strong>icon_calendar</strong>)."
+
+#: functions/fe/widget-info-box.php:65
+#: functions/fe/widget-presentation-box.php:72
+msgid "Text:"
+msgstr "Tekst:"
+
+# @ naturespace
+#: functions/fe/widget-info-box.php:72
+msgid "Link:"
+msgstr "Powiązanie:"
+
+#: functions/fe/widget-info-box.php:76
+msgid "Insert here the full URL which will be displayed as a link (optional)."
+msgstr "Wstaw tutaj pełny adres URL przycisku (fakultatywny)."
+
+# @ naturespace
+#: functions/fe/widget-info-box.php:108
+msgid "Read More &gt;"
+msgstr "Więcej &gt;"
+
+# @ naturespace
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako kolumny z podświetlonym pierwszym "
+"postem."
+
+# @ naturespace
+#: functions/fe/widget-posts-column.php:14
+msgid "NatureSpace Posts-Column"
+msgstr "NatureSpace Posts-Column"
+
+# @ naturespace
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Kategoria:"
+
+# @ naturespace
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Wybierz kategorię postu."
+
+# @ naturespace
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Liczba postów:"
+
+# @ naturespace
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Wstaw tutaj liczbę najnowszych wiadomości z wybranej kategorii, które mają "
+"być wyświetlane."
+
+# @ naturespace
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr "Najnowsze domyślne posty z wybranej kategorii."
+
+# @ naturespace
+#: functions/fe/widget-posts-default.php:14
+msgid "NatureSpace Posts-Default"
+msgstr "NatureSpace Posts-Default"
+
+# @ naturespace
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Najnowsze posty z wybranej kategorii jako tabela."
+
+# @ naturespace
+#: functions/fe/widget-posts-grid.php:14
+msgid "NatureSpace Posts-Grid"
+msgstr "NatureSpace Posts-Grid"
+
+# @ naturespace
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako nieuporządkowana lista z "
+"podświetlonym pierwszym postem."
+
+# @ naturespace
+#: functions/fe/widget-posts-list.php:14
+msgid "NatureSpace Posts-List"
+msgstr "NatureSpace Posts-List"
+
+# @ naturespace
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Najnowsze posty z wybranej kategorii jako suwak."
+
+# @ naturespace
+#: functions/fe/widget-posts-slider.php:14
+msgid "NatureSpace Posts-Slider"
+msgstr "NatureSpace Posts-Slider"
+
+# @ naturespace
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Najnowsze posty z wybranej kategorii jako miniatury."
+
+# @ naturespace
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "NatureSpace Posts-Thumbnail"
+msgstr "NatureSpace Posts-Thumbnail"
+
+#: functions/fe/widget-presentation-box.php:12
+msgid "Displays a box with your custom image and text."
+msgstr "Wyświetl pole ze zdjęciem a tekstem."
+
+#: functions/fe/widget-presentation-box.php:14
+msgid "NatureSpace Box-Presentation"
+msgstr "NatureSpace Box-Presentation"
+
+#: functions/fe/widget-section-headline.php:12
+msgid "Displays a headline of a section created with the Page Builder."
+msgstr "Wyświetla tytuł sekcja tworzone za pomocą Page Builder."
+
+# @ naturespace
+#: functions/fe/widget-section-headline.php:14
+msgid "NatureSpace Section-Headline"
+msgstr "NatureSpace Section-Headline"
+
+#: functions/fe/widget-section-headline.php:28
+msgid "Headline:"
+msgstr "Tytuł:"
+
+# @ naturespace
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by NatureSpace"
+msgstr "NatureSpace Twitter widget."
+
+# @ naturespace
+#: functions/fe/widget-twitter.php:15
+msgid "NatureSpace Twitter Widget"
+msgstr "NatureSpace Twitter Widget"
+
+# @ naturespace
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Dołącz do nas na Twitterze"
+
+# @ naturespace
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Nazwa użytkownika na Twitter:"
+
+# @ naturespace
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: naturespace)."
+msgstr "Wprowadź swoją nazwę użytkownika na Twitter. (przykład: naturespace)."
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Wyświetl popularne posty, ostatnie posty, komentarze i tagi w formacie "
+"zakładkami."
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "NatureSpace Tab Widget"
+msgstr "NatureSpace Tab Widget"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "Wybierz zakładki"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "Popularne zakładki"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "Najnowsze zakładki"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Zakładki komentarzy"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "Zakładka tagów"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "Kolejność zakładek"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "Popularne"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "Najnowsze"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Komentarze"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "Tagi"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Opcje zaawansowane"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Umożliwiają podział na strony"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Liczba postów do pokazania:"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Pokaż miniatury postów"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Pokaż datę postu"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Pokaż liczbę komentarzy"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Pokaż wiadomość - fragment"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Długość fragmentu (słowa):"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Ilość komentarzy w zakładce Komentarze:"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Pokaż awatary na zakładce Komentarze"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "Brak komentarzy"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "Jeden komentarz"
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Brak komentarzy."
+
+# @ naturespace
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "Brak tagów."
+
+#: functions.php:164
+msgid "Header Slideshow"
+msgstr "Pokaz slajdów - Nagłowek"
+
+#: functions.php:176
+msgid "Insert here a Slideshow ID to display a slideshow in header."
+msgstr "Wprowadź tu Slideshow ID, aby wyświetlić pokaz slajdów w nagłówku."

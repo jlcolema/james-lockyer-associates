@@ -1,0 +1,96 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(22/01/2016) - Update - Version 2.0.1
+
+[*] Updated indirect access to variables to make it compatible with PHP7.
+[*] Updated bundled plugin Page Builder by SiteOrigin (fixed Page Builder tab name for WordPress 4.4).
+[*] Removed platform specific styling to form elements by setting -webkit-appearance and -moz-appearance to "none".
+
+----
+
+(08/12/2015) - Update - Version 2.0.0
+
+[*] Moved Font and Color settings to the Customizer API.
+
+----
+
+(12/10/2015) - Update - Version 1.1.6
+
+[+] Added ability to set a custom width of the NatureSpace Facebook Like Box Widget.
+[*] Updated Italian translation.
+[*] Updated deprecated constructor method of all custom widgets.
+[*] Updated the TGM Plugin Activation to the version 2.5.2.
+[!] Updated wp-display-header.php to fix a conflict with bbPress and other plugins that allow to edit user profiles in the front-end view.
+[!] Fixed problem with floating of the Reply form in the Comments section.
+
+----
+
+(29/07/2015) - Update - Version 1.1.5
+
+[+] Added ability to select Character Set in Theme Options > Fonts.
+[+] Added ability to set different Header Slideshows for the individual pages/posts.
+[+] Added Turkish translation.
+[*] Updated translations.
+[*] Updated the list of available Google fonts (corrected nonfunctional fonts).
+[*] Increased height of the responsive drop-down menus.
+[*] Specified a recommended height of the Header Image.
+
+----
+
+(10/06/2015) - Update - Version 1.1.4
+
+[+] Added Polish translation.
+[+] Added support for the Title Tag feature.
+[+] Added support for the "pingback" link in <head> section.
+[*] Updated the TGM Plugin Activation to the version 2.4.2.
+[*] Updated the "viewport" meta tag.
+[*] Enabled using of HTML elements in the NatureSpace Box-Info and NatureSpace Box-Presentation widgets.
+[*] Updated German translation.
+[!] Fixed conflict with WP Tab Widget plugin.
+
+----
+
+(22/02/2015) - Update - Version 1.1.3
+
+[+] Added Danish translation.
+[*] Updated editor-style.css.
+[*] Changed the source of the Breadcrumb NavXT recommended plugin from the private repository to the WordPress.org repository.
+
+----
+
+(12/01/2015) - Update - Version 1.1.2
+
+[+] Added Greek translation.
+[+] Mentioned the Text Domain in style.css.
+[*] Set the priority of excerpt_length filter from 999 to 20.
+[*] Updated paginate_links() arguments (added "add_args").
+
+----
+
+(30/12/2014) - Update - Version 1.1.1
+
+[+] Added Dutch translation.
+[+] Added ability to use the "nextpage" tag on pages.
+
+----
+
+(17/12/2014) - Update - Version 1.1.0
+
+[+] Added Italian translation.
+[*] Updated including of the TGM_Plugin_Activation class (only the users who are allowed to install plugins can see it now).
+[*] Updated bundled plugin Page Builder by SiteOrigin.
+[*] Edited URL addresses of the social networks scripts (removed http to avoid errors when https is used).
+[x] Removed deprecated function "screen_icon()" from class-tgm-plugin-activation.php.
+
+----
+
+(22/09/2014) - The initial public release - Version 1.0.0

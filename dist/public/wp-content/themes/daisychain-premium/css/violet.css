@@ -1,0 +1,68 @@
+/* Color scheme Violet
+----------------------------------------------- */
+html body {
+  background-color: #73626e;       
+}
+body a,
+body .post-entry .post-entry-headline a,
+body #content .home-list-posts ul li a,
+body .flexslider .slides li a {
+  color: #73626e;       
+}
+body #top-navigation-wrapper,
+body #wrapper-footer,
+body #searchform .searchform-wrapper .send,
+.js #top-navigation-wrapper .top-navigation .selectnav {
+  background-color: #4f3848;                             
+}
+body #main-content-inner,
+body #searchform .searchform-wrapper #s {
+  border-color: #4f3848;                         
+}
+body .post-entry .read-more-button,
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+#wrapper #container .panel-row-style .origin-widget-button a {
+  background-color: #8f808b;                                   
+}
+body .menu-box ul ul {
+  border-color: #8f808b;                     
+}
+body .sidebar-widget a {
+  color: #8f808b;                       
+}
+body .post-entry .read-more-button:hover,
+body .footer-signature,
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .custom-button:hover,
+#wrapper #container .panel-row-style .origin-widget-button a:hover,
+body #searchform .send:hover {
+  background-color: #3d2b38;                                         
+}
+body #top-navigation-wrapper,
+body .top-navigation ul ul,
+body #wrapper-footer,
+body #footer .footer-widget .footer-headline,
+.js #top-navigation-wrapper .top-navigation .selectnav {
+  border-color: #3d2b38;                             
+}
+body .footer-signature {
+  border-color: #362631;                       
+}
+body .menu-box a:hover,
+body .menu-box :hover > a,
+body #searchform .searchform-wrapper #s {
+  background-color: #d6c9d3;                          
+}
+body .highlight-text {
+  background-color: #e8dae4;                               
+}
+body .top-navigation a,
+body .top-navigation a:visited,
+body #footer a,
+body #footer .footer-widget .footer-headline,
+body .footer-signature .footer-signature-content a {
+  color: #e8dae4;                               
+}

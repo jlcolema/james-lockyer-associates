@@ -1,0 +1,64 @@
+/* Color scheme Violet
+----------------------------------------------- */
+#wrapper-header .header-bar,
+body #wrapper-footer,
+.post-entry .post-read-more,
+body input[type="submit"],
+body input[type="reset"],
+body .centered-button,
+body .custom-button,
+table th {
+  background-color: #6e2785;           
+}
+.portfolio-boxes-wrapper .portfolio-box img {
+  border-color: #6e2785;           
+}
+#wrapper-footer .footer-signature .footer-signature-content {
+  background-color: #4e0e5b;                                                            
+}
+body #wrapper-footer,
+#wrapper-footer #footer .footer-widget .footer-headline {
+  border-color: #4e0e5b;                     
+}
+body .post-entry .post-entry-headline a:hover {
+  color: #4e0e5b;                                              
+}
+.post-entry .post-read-more:hover,
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .centered-button:hover,
+body .custom-button:hover {
+  background-color: #4a0e57;                                
+}     
+.portfolio-boxes-wrapper .portfolio-box :hover > img,
+body .menu-box ul ul {
+  border-color: #4a0e57;                            
+}
+body .section-headline,
+body #content .section-headline,
+body .sidebar-widget .sidebar-headline,
+body .read-more-button {
+  color: #4a0e57;                                
+}
+body .post-entry,
+.container .post-info span {
+  border-color: #954ba6;                 
+} 
+body input[type="text"],
+body input[type="file"],
+body input[type="password"],
+body input[type="number"],
+body input[type="search"],
+body input[type="email"],
+body input[type="url"],
+body textarea,
+body select,
+body #searchform .searchform-wrapper {
+  border-color: #714a79;
+}
+body a {
+  color: #531a5e;       
+}
+#sidebar .sidebar-widget a {
+  color: #5b1d69;                           
+}
